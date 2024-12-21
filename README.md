@@ -1,43 +1,43 @@
 ## System Design 
     
 
-#### What is a System Design?
+### What is a System Design?
 ![images/1-system-design.png](images/1-system-design.png)
 
-#### What are the Key Components of System Design?
+### What are the Key Components of System Design?
 ![2-key-components-of-system-design.png](images/2-key-components-of-system-design.png)
 
-#### What are the stpes in System Design?
+### What are the stpes in System Design?
 ![3-steps-in-system-design.png](images/3-steps-in-system-design.png)
 
-#### Tools and Techniques?
+### Tools and Techniques?
 ![4-tools-teshnologies.png](images/4-tools-teshnologies.png)
 
-#### Steps involved in System Design?
+### Steps involved in System Design?
 ![5-system-design-involves.png](images/5-system-design-involves.png)
 
-#### Fundamental concepts divided in two parts?
+### Fundamental concepts divided in two parts?
 ![6-fundamental-concepts-type.png](images/6-fundamental-concepts-type.png)
 
-#### Scalability?
+### Scalability?
 ![7-scalability.png](images/7-scalability.png)
 
-#### Types of scalability?
+### Types of scalability?
 ![8-types-of-scalability.png](images/8-types-of-scalability.png)
 
-#### Performance?
+### Performance?
 ![9.performance.png](images/9.performance.png)
 
-#### Performance measure?
+### Performance measure?
 ![10-performance-measure.png](images/10-performance-measure.png)
 
-#### Availability?
+### Availability?
 ![11-availability.png](images/11-availability.png)
 
-#### Reliability?
+### Reliability?
 ![12-reliability.png](images/12-reliability.png)
 
-#### Consistency?
+### Consistency?
 ![13-consistency.png](images/13-consistency.png)
 
 #### Eventual Consistency?
@@ -76,18 +76,14 @@
 #### Caching?
 ![25-caching.png](images/25-caching.png)
 
-
 #### Messaging Queue?
 ![26-messaging-queue.png](images/26-messaging-queue.png)
-
 
 #### Stoage?
 ![27-stoage.png](images/27-stoage.png)
 
-
 #### Proxy Server?
 ![28-proxy-server.png](images/28-proxy-server.png)
-
 
 #### CDN?
 ![29-CDN.png](images/29-CDN.png)
